@@ -16,9 +16,9 @@ int main() {
   int n,sum;
   
   printf("Enter a value for n:");
-  scanf("%d",&n);
+  scanf("%d" ,&n);
   
-  sum=(n*(n+1))/2;
+  sum=(n*(n+1)) /2;
   
   printf("sum is:%d",sum);
   

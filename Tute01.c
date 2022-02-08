@@ -6,7 +6,7 @@
 
 int main() {
    int mark1,mark2;
-   float Avg;
+   float avg;
    
    printf("Enter mark1:");
    scanf("%d",mark1);
@@ -15,7 +15,7 @@ int main() {
   scanf("%d",&mark2);
    
    Avg=(mark1+mark2)/2.0;
-   printf("Average:%.2f\n",Avg);
+   printf("Average:%.2f\n ",Avg);
       
   return 0;
 }

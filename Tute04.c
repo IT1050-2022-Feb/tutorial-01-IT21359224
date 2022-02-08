@@ -41,7 +41,7 @@ int maximum(int no,int no2)
 }
 int multiply(int no1,int no2)
 {
-return no*no2;
+return no * no2;
 }
 
 
